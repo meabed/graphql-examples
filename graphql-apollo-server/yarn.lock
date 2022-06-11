@@ -291,7 +291,7 @@ apollo-server-caching@^3.3.0:
   dependencies:
     lru-cache "^6.0.0"
 
-apollo-server-core@^3.8.2:
+apollo-server-core@3.8.2, apollo-server-core@^3.8.2:
   version "3.8.2"
   resolved "https://registry.yarnpkg.com/apollo-server-core/-/apollo-server-core-3.8.2.tgz#a065e00220d6c709b11b824197520adee6d897d2"
   integrity sha512-cbzG928HG27W+juMVCIL1O//iyAj/Q2hnOu6YwrGrcqeE75ZIJSgSBm/gPHK20cI7nEjK2IWACx8Hj1nGAQ5Zg==
@@ -365,7 +365,7 @@ apollo-server-types@^3.6.0:
     apollo-server-caching "^3.3.0"
     apollo-server-env "^4.2.1"
 
-apollo-server@^3.8.2:
+apollo-server@3.8.2:
   version "3.8.2"
   resolved "https://registry.yarnpkg.com/apollo-server/-/apollo-server-3.8.2.tgz#15a9263d56ac3a44a5c186d9aafed90c1c2687da"
   integrity sha512-XBWTn9uMLKgob60qOlAphOIpY81dDfF5uonCvO154Qx5TJ6IRqER38StIgEgQLLRcR4RZ40uMvbwofZRHfXecA==
