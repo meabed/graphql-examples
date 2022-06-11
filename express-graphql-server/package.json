@@ -1,7 +1,7 @@
 {
   "name": "express-graphql-server",
   "dependencies": {
-    "graphql": "^14.6.0",
+    "graphql": "16.5.0",
     "graphql-tools": "^2.2.0"
   },
   "devDependencies": {
