@@ -10,5 +10,8 @@
     "url": "https://github.com/meabed/graphql-examples"
   },
   "license": "MIT",
-  "author": "Meabed <mo@meabed.com>"
+  "author": "Meabed <mo@meabed.com>",
+  "scripts": {
+    "update-pkgs": "./.scripts/update-pkgs.sh"
+  }
 }
