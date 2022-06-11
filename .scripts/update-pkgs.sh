@@ -10,6 +10,7 @@ dirs=(
 npmPkgs=(
   typesync
   npm-check-updates
+  sort-package-json
 )
 
 for pkg in "${npmPkgs[@]}"; do
@@ -27,6 +28,8 @@ for dir in "${dirs[@]}"; do
   cd $dir
   typesync
   ncu -u
+  sort-package-json
   yarn
+  tsc --init
   cd ..
 done
