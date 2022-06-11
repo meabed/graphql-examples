@@ -5,6 +5,8 @@ dirs=(
   graphql-apollo-express-server
   graphql-apollo-server
   graphql-yoga-server
+  nexusjs-graphql
+  pothos-graphql
 )
 
 npmPkgs=(
