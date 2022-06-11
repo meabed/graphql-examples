@@ -1,0 +1,9 @@
+{
+  "name": "graphql-apollo-server",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}

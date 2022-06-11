@@ -1,0 +1,9 @@
+{
+  "name": "graphql-yoga-server",
+  "dependencies": {
+    "graphql-yoga": "^1.7.0",
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}

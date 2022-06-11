@@ -1,0 +1,14 @@
+{
+  "name": "graphql-examples",
+  "version": "1.0.0",
+  "keywords": [
+    "graphql",
+    "examples"
+  ],
+  "homepage": "https://graphql-examples.vercel.app",
+  "repository": {
+    "url": "https://github.com/meabed/graphql-examples"
+  },
+  "license": "MIT",
+  "author": "Meabed <mo@meabed.com>"
+}
