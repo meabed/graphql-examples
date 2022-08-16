@@ -1,9 +1,9 @@
 {
   "name": "graphql-yoga-server",
   "dependencies": {
-    "@graphql-yoga/node": "2.13.6",
+    "@graphql-yoga/node": "2.13.7",
     "express": "4.18.1",
-    "graphql": "16.5.0",
+    "graphql": "16.6.0",
     "graphql-ws": "5.10.0",
     "ws": "8.8.1"
   },
