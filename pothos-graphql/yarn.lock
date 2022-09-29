@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@pothos/core@3.22.0":
-  version "3.22.0"
-  resolved "https://registry.yarnpkg.com/@pothos/core/-/core-3.22.0.tgz#2fc70e020e52793adb81d17ded84aa481da6156d"
-  integrity sha512-v8h38ToJlXN4gj7F5U1iWCp+qcwDdvtHrKBxLVz2tN1R4hbEgImm19kVPHMCJ9XUFvLYpt3HX+Cg2Cu89+YAgQ==
+"@pothos/core@3.22.1":
+  version "3.22.1"
+  resolved "https://registry.yarnpkg.com/@pothos/core/-/core-3.22.1.tgz#ec110b8f16c2ff3a8cddb05be554b3f8ba99032b"
+  integrity sha512-MldT147d8UEIBwlGBjlLLNfbJAj4GinTedg73PwcGoUGpSPs48uFqJzxR/5643qmwvACJuGePuqP09KwBLE2tQ==
 
 "@types/body-parser@*":
   version "1.19.2"
