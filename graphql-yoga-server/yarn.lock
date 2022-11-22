@@ -81,12 +81,12 @@
   resolved "https://registry.yarnpkg.com/@graphql-typed-document-node/core/-/core-3.1.1.tgz#076d78ce99822258cf813ecc1e7fa460fa74d052"
   integrity sha512-NQ17ii0rK1b34VZonlmT2QMJFI70m0TRwbknO/ihlbatXyaktDhN/98vBiUU6kNBPljqGqyIrl2T4nY2RpFANg==
 
-"@graphql-yoga/node@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@graphql-yoga/node/-/node-3.0.0.tgz#9e3a7a04553d2ce62fb41cee446b2af675aac1df"
-  integrity sha512-1cXqSpamJhl4nYWj8Ao2LJUaJLSsPA2QQbRzZ1Bcw/hTcxBYRpRSCUDEzSfo4OaElU8yLhAX9H8ZJ2Fv07BwwQ==
+"@graphql-yoga/node@3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@graphql-yoga/node/-/node-3.0.1.tgz#4bdbfc87930851591c373f6a2496990a8d9fadfd"
+  integrity sha512-zufK42vN6LEpcV9/Vk3WkCl1a9CHO5/JOOb8bU8Yx3ephvO8+SHwE99LFJRd30RKc+CmktsiTACz3lkP+IOdZw==
   dependencies:
-    graphql-yoga "3.0.0"
+    graphql-yoga "3.0.1"
     tslib "^2.3.1"
 
 "@graphql-yoga/subscription@^3.0.0":
@@ -463,10 +463,10 @@ graphql-ws@5.11.2:
   resolved "https://registry.yarnpkg.com/graphql-ws/-/graphql-ws-5.11.2.tgz#d5e0acae8b4d4a4cf7be410a24135cfcefd7ddc0"
   integrity sha512-4EiZ3/UXYcjm+xFGP544/yW1+DVI8ZpKASFbzrV5EDTFWJp0ZvLl4Dy2fSZAzz9imKp5pZMIcjB0x/H69Pv/6w==
 
-graphql-yoga@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/graphql-yoga/-/graphql-yoga-3.0.0.tgz#8ae6fa18cd4c122f874faee1fa1d7a3ea2e5e81f"
-  integrity sha512-7RDheueN4iUOfxVIjjWfrSIFVvubbuMMW44XxuB0/JjIrNZ4ApIs9aLBQuYLXZbqdMCr3+bFkVZAILG9j5XykA==
+graphql-yoga@3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/graphql-yoga/-/graphql-yoga-3.0.1.tgz#c765dddb241859b75d76b47ce40b4597649e2dcd"
+  integrity sha512-Yod+Y3Bu14toHCo0m6GIn65017jye/JIl01AdnssoYWWGWdWmsc/wn6igAYa8tPh1+mmHSb9Fn+yP3EqDeASJA==
   dependencies:
     "@envelop/core" "3.0.3"
     "@envelop/parser-cache" "5.0.3"
