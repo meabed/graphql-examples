@@ -10,7 +10,7 @@
     "@envelop/types" "3.0.1"
     tslib "2.4.0"
 
-"@envelop/parser-cache@5.0.4":
+"@envelop/parser-cache@^5.0.4":
   version "5.0.4"
   resolved "https://registry.yarnpkg.com/@envelop/parser-cache/-/parser-cache-5.0.4.tgz#4ff19c16c601c6137a6774fc5660f2e18768c05c"
   integrity sha512-+kp6nzCVLYI2WQExQcE3FSy6n9ZGB5GYi+ntyjYdxaXU41U1f8RVwiLdyh0Ewn5D/s/zaLin09xkFKITVSAKDw==
@@ -25,10 +25,10 @@
   dependencies:
     tslib "^2.4.0"
 
-"@envelop/validation-cache@5.0.4":
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/@envelop/validation-cache/-/validation-cache-5.0.4.tgz#21f6b7b5c7d9966b046aec6323c621f6c3f35418"
-  integrity sha512-7b4BWtNMxSdXspwzFN2qmkEaaHfmuDz60uMlVFaMN4nA1Vc5duAV7GQWfAKl56VoePU6UwQ0i49Dm/plJfwxIQ==
+"@envelop/validation-cache@^5.0.5":
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/@envelop/validation-cache/-/validation-cache-5.0.5.tgz#9be1c1ba178460dcaf6d277136a381833cc4f931"
+  integrity sha512-69sq5H7hvxE+7VV60i0bgnOiV1PX9GEJHKrBrVvyEZAXqYojKO3DP9jnLGryiPgVaBjN5yw12ge0l0s2gXbolQ==
   dependencies:
     lru-cache "^6.0.0"
     tslib "^2.4.0"
@@ -81,12 +81,12 @@
   resolved "https://registry.yarnpkg.com/@graphql-typed-document-node/core/-/core-3.1.1.tgz#076d78ce99822258cf813ecc1e7fa460fa74d052"
   integrity sha512-NQ17ii0rK1b34VZonlmT2QMJFI70m0TRwbknO/ihlbatXyaktDhN/98vBiUU6kNBPljqGqyIrl2T4nY2RpFANg==
 
-"@graphql-yoga/node@3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@graphql-yoga/node/-/node-3.1.1.tgz#7d16159acbfa70df068c2a9429b30337f8a4c2f6"
-  integrity sha512-K4kZ24NZzysXQSWHfUIvJ5YpKbScgTy94SEmJf7BUE8U2FYONclvcpQKfYWkMDTuxv0OU+Kkh7pa1T6vbL7cIw==
+"@graphql-yoga/node@3.1.2":
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@graphql-yoga/node/-/node-3.1.2.tgz#e73ee115c513d10bb740047416579aa824b673dc"
+  integrity sha512-9PONBnBnb+cXhd0lhnAfE7llJjO4qksTJA/L64m15q4tGwqnVFsWBy+wJtfaJVdc+b7G5+BxLcMbYQLsbACjww==
   dependencies:
-    graphql-yoga "3.1.1"
+    graphql-yoga "3.1.2"
     tslib "^2.3.1"
 
 "@graphql-yoga/subscription@^3.0.0":
@@ -463,14 +463,14 @@ graphql-ws@5.11.2:
   resolved "https://registry.yarnpkg.com/graphql-ws/-/graphql-ws-5.11.2.tgz#d5e0acae8b4d4a4cf7be410a24135cfcefd7ddc0"
   integrity sha512-4EiZ3/UXYcjm+xFGP544/yW1+DVI8ZpKASFbzrV5EDTFWJp0ZvLl4Dy2fSZAzz9imKp5pZMIcjB0x/H69Pv/6w==
 
-graphql-yoga@3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/graphql-yoga/-/graphql-yoga-3.1.1.tgz#67089bbcb0e053e3696e0406c2a07aa482f3427e"
-  integrity sha512-XgqQM1IurPPsO0HU00evqhiHIta8oghJ/1bSkHOPbTZeGELqb0VV/j7ureGHz5S+vCvNHulzW+YuIfaaph00iQ==
+graphql-yoga@3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/graphql-yoga/-/graphql-yoga-3.1.2.tgz#58a5e7cce073540b689fd8241852755aef70afed"
+  integrity sha512-kn5VIH8f461xlMy4WZBBqS03e5Mre200juoHCMJoJhoAN/1Mu8MiLuGY2SBcEE/ROkF57QC63o2JjYTJ37L6zA==
   dependencies:
     "@envelop/core" "3.0.4"
-    "@envelop/parser-cache" "5.0.4"
-    "@envelop/validation-cache" "5.0.4"
+    "@envelop/parser-cache" "^5.0.4"
+    "@envelop/validation-cache" "^5.0.5"
     "@graphql-tools/executor" "0.0.9"
     "@graphql-tools/schema" "^9.0.0"
     "@graphql-tools/utils" "^9.0.1"
