@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@pothos/core@3.27.1":
-  version "3.27.1"
-  resolved "https://registry.yarnpkg.com/@pothos/core/-/core-3.27.1.tgz#e497f3640ad44a3bb1e688bbaf10845a320fdbe4"
-  integrity sha512-cvnF3eoVTF7Dw5obRYUGdC4sK62rGiM4EHQOb3z1nVIY6gutYoG2eEVZGR7yQXmsTBQp6tIW5w66JHfXwU/kiA==
+"@pothos/core@3.28.0":
+  version "3.28.0"
+  resolved "https://registry.yarnpkg.com/@pothos/core/-/core-3.28.0.tgz#3466a8457c83527dd552b767b0430f0888b8447d"
+  integrity sha512-98pJcnL3ojBpOK2DJOWGsNHgjQ+P0A8bt7qLZsCnnyvZEDittU4BnhAxt4MBSTD5D8NFD8pp6ZFUPmTUyGlgDQ==
 
 "@types/body-parser@*":
   version "1.19.2"
@@ -529,7 +529,7 @@ vary@~1.1.2:
   resolved "https://registry.yarnpkg.com/vary/-/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
 
-ws@8.12.1:
-  version "8.12.1"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-8.12.1.tgz#c51e583d79140b5e42e39be48c934131942d4a8f"
-  integrity sha512-1qo+M9Ba+xNhPB+YTWUlK6M17brTut5EXbcBaMRN5pH5dFrXz7lzz1ChFSUq3bOUl8yEvSenhHmYUNJxFzdJew==
+ws@8.13.0:
+  version "8.13.0"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-8.13.0.tgz#9a9fb92f93cf41512a0735c8f4dd09b8a1211cd0"
+  integrity sha512-x9vcZYTrFPC7aSIbj7sRCYo7L/Xb8Iy+pW0ng0wt2vCJv7M9HOMy0UoN3rr+IFC7hb7vXoqS+P9ktyLLLhO+LA==
