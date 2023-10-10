@@ -9,8 +9,8 @@
     "ws": "8.14.2"
   },
   "devDependencies": {
-    "@types/express": "4.17.18",
-    "@types/ws": "8.5.6",
+    "@types/express": "4.17.19",
+    "@types/ws": "8.5.7",
     "typescript": "5.2.2"
   }
 }
