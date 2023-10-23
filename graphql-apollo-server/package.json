@@ -5,11 +5,11 @@
     "@apollo/server": "4.0.0",
     "@apollo/server": "4.9.4",
     "graphql": "16.8.1",
-    "graphql-ws": "5.14.1",
+    "graphql-ws": "5.14.2",
     "ws": "8.14.2"
   },
   "devDependencies": {
-    "@types/ws": "8.5.7",
+    "@types/ws": "8.5.8",
     "typescript": "5.2.2"
   }
 }
