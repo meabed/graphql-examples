@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@pothos/core@3.40.0":
-  version "3.40.0"
-  resolved "https://registry.yarnpkg.com/@pothos/core/-/core-3.40.0.tgz#9edbb1a5be4905b99b4068ec55e5ddcd55ed3126"
-  integrity sha512-ioYig4fjkCp6wFBkMdO+VZrEfiZYVMUF3y9V2bZqBJ/zaZExikjBo92TDCcrbeXLph36vya+O2Qxh22s1nQm7Q==
+"@pothos/core@3.41.0":
+  version "3.41.0"
+  resolved "https://registry.yarnpkg.com/@pothos/core/-/core-3.41.0.tgz#992bf91665f9aabf328f7cbbf12f1819c1888b07"
+  integrity sha512-Nb7uPDTXVjdrWqHs5aoD1r6JEdQ9FnJYlf7gv47o1b/bb8rVDAZQaviVvaChal7YQcyFGgCFb0/YNNHLNBEjNw==
 
 "@types/body-parser@*":
   version "1.19.2"
@@ -268,10 +268,10 @@ get-intrinsic@^1.0.2:
     has "^1.0.3"
     has-symbols "^1.0.3"
 
-graphql-ws@5.14.2:
-  version "5.14.2"
-  resolved "https://registry.yarnpkg.com/graphql-ws/-/graphql-ws-5.14.2.tgz#7db6f6138717a544d9480f0213f65f2841ed1c52"
-  integrity sha512-LycmCwhZ+Op2GlHz4BZDsUYHKRiiUz+3r9wbhBATMETNlORQJAaFlAgTFoeRh6xQoQegwYwIylVD1Qns9/DA3w==
+graphql-ws@5.15.0:
+  version "5.15.0"
+  resolved "https://registry.yarnpkg.com/graphql-ws/-/graphql-ws-5.15.0.tgz#2db79e1b42468a8363bf5ca6168d076e2f8fdebc"
+  integrity sha512-xWGAtm3fig9TIhSaNsg0FaDZ8Pyn/3re3RFlP4rhQcmjRDIPpk1EhRuNB+YSJtLzttyuToaDiNhwT1OMoGnJnw==
 
 graphql@16.8.1:
   version "16.8.1"
@@ -529,7 +529,7 @@ vary@~1.1.2:
   resolved "https://registry.yarnpkg.com/vary/-/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
 
-ws@8.14.2:
-  version "8.14.2"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-8.14.2.tgz#6c249a806eb2db7a20d26d51e7709eab7b2e6c7f"
-  integrity sha512-wEBG1ftX4jcglPxgFCMJmZ2PLtSbJ2Peg6TmpJFTbe9GZYOQCDPdMYu/Tm0/bGZkw8paZnJY45J4K2PZrLYq8g==
+ws@8.16.0:
+  version "8.16.0"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-8.16.0.tgz#d1cd774f36fbc07165066a60e40323eab6446fd4"
+  integrity sha512-HS0c//TP7Ina87TfiPUz1rQzMhHrl/SG2guqRcTOIUYD2q8uhUdNHZYJUaQ8aTGPzCh+c6oawMKW35nFl1dxyQ==
