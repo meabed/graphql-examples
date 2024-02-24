@@ -1,12 +1,12 @@
 {
   "name": "graphql-apollo-server",
   "dependencies": {
-    "@graphql-tools/schema": "10.0.2",
+    "@graphql-tools/schema": "10.0.3",
     "@apollo/server": "4.0.0",
-    "@apollo/server": "4.9.5",
+    "@apollo/server": "4.10.0",
     "graphql": "16.8.1",
-    "graphql-ws": "5.14.2",
-    "ws": "8.14.2"
+    "graphql-ws": "5.15.0",
+    "ws": "8.16.0"
   },
   "devDependencies": {
     "@types/ws": "8.5.10",
