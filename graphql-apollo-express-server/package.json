@@ -2,7 +2,7 @@
   "name": "graphql-apollo-server",
   "dependencies": {
     "@apollo/server": "4.10.5",
-    "express": "4.19.2",
+    "express": "4.20.0",
     "graphql": "16.9.0",
     "graphql-ws": "5.16.0",
     "ws": "8.16.0"
