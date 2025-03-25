@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@pothos/core@4.5.0":
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/@pothos/core/-/core-4.5.0.tgz#7b73f882a9e2c34cfb5b1c3cea305861e184e47f"
-  integrity sha512-OBktnbaTkcS3pZMGCC2375tNSypsvVRP2SJSjN0VW9MXlJFP9+2lZTNeKyGFndTH5QLbxoLUe3nUSVdkBHMLzA==
+"@pothos/core@4.5.1":
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/@pothos/core/-/core-4.5.1.tgz#a31b2d37daf4e7b488d24ec9887dce8d88191d29"
+  integrity sha512-zGjgeKy9IWMtqW5lmYuRmxHJegM+O545cSVrcfLEj1i3eRX9ee8ae/2JQGjyN1N2Dd57MVoelr/aN/wjJcW/GA==
 
 "@types/body-parser@*":
   version "1.19.2"
@@ -32,14 +32,13 @@
     "@types/range-parser" "*"
     "@types/send" "*"
 
-"@types/express@5.0.0":
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@types/express/-/express-5.0.0.tgz#13a7d1f75295e90d19ed6e74cab3678488eaa96c"
-  integrity sha512-DvZriSMehGHL1ZNLzi6MidnsDhUZM/x2pRdDIKdwbUNqqwHxMlRdkxtn6/EPKyqKpHqTl/4nRZsRNLpZxZRpPQ==
+"@types/express@5.0.1":
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/@types/express/-/express-5.0.1.tgz#138d741c6e5db8cc273bec5285cd6e9d0779fc9f"
+  integrity sha512-UZUw8vjpWFXuDnjFTh7/5c2TWDlQqeXHi6hcN7F2XSVT5P+WmUnnbFS3KA6Jnc6IsEqI2qCVu2bK0R0J4A8ZQQ==
   dependencies:
     "@types/body-parser" "*"
     "@types/express-serve-static-core" "^5.0.0"
-    "@types/qs" "*"
     "@types/serve-static" "*"
 
 "@types/mime@^1":
