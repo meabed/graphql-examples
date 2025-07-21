@@ -1,7 +1,7 @@
 {
   "name": "express-graphql-server",
   "dependencies": {
-    "@pothos/core": "4.7.3",
+    "@pothos/core": "4.8.0",
     "express": "5.1.0",
     "express-graphql": "0.12.0",
     "graphql": "16.11.0",
