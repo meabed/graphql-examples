@@ -1,7 +1,7 @@
 {
   "name": "graphql-apollo-server",
   "dependencies": {
-    "@graphql-tools/schema": "10.0.24",
+    "@graphql-tools/schema": "10.0.25",
     "@apollo/server": "4.0.0",
     "@apollo/server": "5.0.0",
     "graphql": "16.11.0",
