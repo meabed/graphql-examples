@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@pothos/core@4.8.0":
-  version "4.8.0"
-  resolved "https://registry.yarnpkg.com/@pothos/core/-/core-4.8.0.tgz#88f4ecaff7fe361f44234c177beaec0772f64267"
-  integrity sha512-2AUfsit2nbK31u7IDThvFR3cTiXESLMvOov6RP8jN8XUyirH4HeCg2e/6wiVHCpTeJo1K0CHWkf+szUovKo+Lg==
+"@pothos/core@4.8.1":
+  version "4.8.1"
+  resolved "https://registry.yarnpkg.com/@pothos/core/-/core-4.8.1.tgz#e15494c416598840dcdcdf160444694703b719ff"
+  integrity sha512-C8ZVIm+ZD1WQmL90VvJtgkOmfCmrDrFyTXJeLtTgs6btS9ZbJGALBAYuc09UVab4/psCoCA7Ov7EJjmzJ0lzxw==
 
 "@types/body-parser@*":
   version "1.19.2"
@@ -643,10 +643,10 @@ type-is@^2.0.0, type-is@^2.0.1:
     media-typer "^1.1.0"
     mime-types "^3.0.0"
 
-typescript@5.8.3:
-  version "5.8.3"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.8.3.tgz#92f8a3e5e3cf497356f4178c34cd65a7f5e8440e"
-  integrity sha512-p1diW6TqL9L07nNxvRMM7hMMw4c5XOo/1ibL4aAIGmSAt9slTE1Xgw5KWuof2uTOvCg9BY7ZRi+GaF+7sfgPeQ==
+typescript@5.9.2:
+  version "5.9.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.9.2.tgz#d93450cddec5154a2d5cabe3b8102b83316fb2a6"
+  integrity sha512-CWBzXQrc/qOkhidw1OzBTQuYRbfyxDXJMVJ1XNwUHGROVmuaeiEm3OslpZ1RV96d7SKKjZKrSJu3+t/xlw3R9A==
 
 unpipe@1.0.0:
   version "1.0.0"
