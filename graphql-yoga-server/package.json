@@ -3,7 +3,7 @@
   "dependencies": {
     "@graphql-yoga/node": "3.9.1",
     "express": "5.1.0",
-    "graphql": "16.11.0",
+    "graphql": "17.0.2",
     "graphql-ws": "6.0.6",
     "ws": "8.18.3"
   },
